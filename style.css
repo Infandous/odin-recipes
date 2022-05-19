@@ -1,0 +1,45 @@
+*{
+    font-family: 'Lucida Console','Times New Roman','serif';
+}
+
+.header{
+    background-color: #0000ff;
+    color: #ffffff;
+    text-align:center;
+    font-size:36px;
+}
+
+.recipeLinks{
+    background-color:#00ff00;
+    color:#ff0000;
+    text-align:center;
+    font-weight:300;
+}
+
+.header.specificRecipe{
+    font-weight:700;
+}
+
+.images{
+    height:auto;
+    width:350px;
+}
+
+div{
+    text-align:center;
+}
+
+.description{
+    text-align:center;
+    font-weight:300;
+}
+
+.ingredients{
+    background-color:#00ff00;
+    color:#ff0000;
+}
+
+.instructions{
+    background-color:#fff000;
+    color:#0000ff;
+}
